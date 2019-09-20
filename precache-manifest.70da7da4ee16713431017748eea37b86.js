@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "726db1d59024dbbeac15526b967c760f",
+    "revision": "313a7f57c064aa137060271ebb74f577",
     "url": "/beyondtoy/index.html"
   },
   {
-    "revision": "abba72b66c11ab40a67f",
+    "revision": "a771f4344d5148ec8149",
     "url": "/beyondtoy/static/css/main.7526ccf7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beyondtoy/static/js/2.4b3aad23.chunk.js"
   },
   {
-    "revision": "abba72b66c11ab40a67f",
-    "url": "/beyondtoy/static/js/main.3f2207de.chunk.js"
+    "revision": "a771f4344d5148ec8149",
+    "url": "/beyondtoy/static/js/main.d6124169.chunk.js"
   },
   {
     "revision": "a43ed88b2b3152d807e7",

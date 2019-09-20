@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/beyondtoy/static/css/main.5559b548.chunk.css",
-    "main.js": "/beyondtoy/static/js/main.4e042737.chunk.js",
-    "main.js.map": "/beyondtoy/static/js/main.4e042737.chunk.js.map",
+    "main.js": "/beyondtoy/static/js/main.c9b147f2.chunk.js",
+    "main.js.map": "/beyondtoy/static/js/main.c9b147f2.chunk.js.map",
     "runtime~main.js": "/beyondtoy/static/js/runtime~main.3fd63ea8.js",
     "runtime~main.js.map": "/beyondtoy/static/js/runtime~main.3fd63ea8.js.map",
     "static/js/2.5f47036a.chunk.js": "/beyondtoy/static/js/2.5f47036a.chunk.js",
     "static/js/2.5f47036a.chunk.js.map": "/beyondtoy/static/js/2.5f47036a.chunk.js.map",
     "index.html": "/beyondtoy/index.html",
-    "precache-manifest.bfb16a318afe7f508ffbce8b3ab4ef1e.js": "/beyondtoy/precache-manifest.bfb16a318afe7f508ffbce8b3ab4ef1e.js",
+    "precache-manifest.e18caa17f31425c3810735f45b0a5dd4.js": "/beyondtoy/precache-manifest.e18caa17f31425c3810735f45b0a5dd4.js",
     "service-worker.js": "/beyondtoy/service-worker.js",
     "static/css/main.5559b548.chunk.css.map": "/beyondtoy/static/css/main.5559b548.chunk.css.map",
     "static/media/index.css": "/beyondtoy/static/media/TaipeiSansTCBeta-Regular.7cf11eed.ttf"
